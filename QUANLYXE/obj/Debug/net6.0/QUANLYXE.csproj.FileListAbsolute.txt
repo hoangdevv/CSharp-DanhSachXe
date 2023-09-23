@@ -1,0 +1,14 @@
+C:\Users\hoang\source\repos\QUANLYXE\QUANLYXE\obj\Debug\net6.0\QUANLYXE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoang\source\repos\QUANLYXE\QUANLYXE\obj\Debug\net6.0\QUANLYXE.AssemblyInfoInputs.cache
+C:\Users\hoang\source\repos\QUANLYXE\QUANLYXE\obj\Debug\net6.0\QUANLYXE.AssemblyInfo.cs
+C:\Users\hoang\source\repos\QUANLYXE\QUANLYXE\obj\Debug\net6.0\QUANLYXE.csproj.CoreCompileInputs.cache
+C:\Users\hoang\source\repos\QUANLYXE\QUANLYXE\bin\Debug\net6.0\QUANLYXE.exe
+C:\Users\hoang\source\repos\QUANLYXE\QUANLYXE\bin\Debug\net6.0\QUANLYXE.deps.json
+C:\Users\hoang\source\repos\QUANLYXE\QUANLYXE\bin\Debug\net6.0\QUANLYXE.runtimeconfig.json
+C:\Users\hoang\source\repos\QUANLYXE\QUANLYXE\bin\Debug\net6.0\QUANLYXE.dll
+C:\Users\hoang\source\repos\QUANLYXE\QUANLYXE\bin\Debug\net6.0\QUANLYXE.pdb
+C:\Users\hoang\source\repos\QUANLYXE\QUANLYXE\obj\Debug\net6.0\QUANLYXE.dll
+C:\Users\hoang\source\repos\QUANLYXE\QUANLYXE\obj\Debug\net6.0\refint\QUANLYXE.dll
+C:\Users\hoang\source\repos\QUANLYXE\QUANLYXE\obj\Debug\net6.0\QUANLYXE.pdb
+C:\Users\hoang\source\repos\QUANLYXE\QUANLYXE\obj\Debug\net6.0\QUANLYXE.genruntimeconfig.cache
+C:\Users\hoang\source\repos\QUANLYXE\QUANLYXE\obj\Debug\net6.0\ref\QUANLYXE.dll
